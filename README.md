@@ -38,3 +38,7 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 
 The project was uploaded to [GitHub](https://github.com/) at the following repository:
 [https://github.com/yukitoshi12345/Regex-Tutorial/](https://github.com/yukitoshi12345/Regex-Tutorial)
+
+## License
+
+This project is licensed under the [MIT License](https://github.com/Yukitoshi12345/Regex-Tutorial/blob/main/LICENSE).
