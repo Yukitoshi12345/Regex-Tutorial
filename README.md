@@ -1,4 +1,16 @@
-# Regex-Tutorial
+<h1 align = "center"> Regex Tutorial </h1>
+
+## Table of Contents
+
+- [User Story](#user-story)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Technologies Used](#technologies-used)
+- [Test Instruction](#test-instruction)
+- [Screenshot](#screenshot)
+- [Video](#video)
+- [Output](#output)
+- [Installation](#installation)
+- [License](#license)
 
 ## User Story
 
