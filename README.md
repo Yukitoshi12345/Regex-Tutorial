@@ -33,3 +33,8 @@ THEN I find a detailed explanation of what a specific component of the regex doe
 WHEN I reach the end of the tutorial
 THEN I find a section about the author and a link to the author’s GitHub profile
 ```
+
+## Installation
+
+The project was uploaded to [GitHub](https://github.com/) at the following repository:
+[https://github.com/yukitoshi12345/Regex-Tutorial/](https://github.com/yukitoshi12345/Regex-Tutorial)
