@@ -1,6 +1,14 @@
 <h1 align = "center"> Regex Tutorial </h1>
 
-Introductory paragraph (replace this with your text)
+A **regex**, which is short for **regular expression**, is a sequence of characters that defines a specific search pattern. When included in code or search algorithms, regular expressions can be used to find certain patterns of characters within a string, or to find and replace a character or sequence of characters within a string. They are also frequently used to validate input.
+
+For example, the following regular expression can be used to verify that user input is a valid email address:
+
+`/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/`
+
+Each component of this regex has a unique responsibility to make sure that a user enters an email address that begins with an unspecified number of characters preceding the `@` symbol, followed by a domain.
+
+My Regex Tutorial is published in my Github Gist.
 
 ## Table of Contents
 
@@ -33,8 +41,8 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 
 ## Installation
 
-The project was uploaded to [GitHub](https://github.com/) at the following repository:
-[https://github.com/yukitoshi12345/Regex-Tutorial/](https://github.com/yukitoshi12345/Regex-Tutorial)
+The project was uploaded to [GitHub Gist](https://gist.github.com/) at the following repository:
+[https://gist.github.com/Yukitoshi12345/27923d704247fd749572fec721b433ed/](https://gist.github.com/Yukitoshi12345/27923d704247fd749572fec721b433ed/)
 
 ## License
 
