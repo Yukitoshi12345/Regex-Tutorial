@@ -8,7 +8,7 @@ For example, the following regular expression can be used to verify that user in
 
 Each component of this regex has a unique responsibility to make sure that a user enters an email address that begins with an unspecified number of characters preceding the `@` symbol, followed by a domain.
 
-My Regex Tutorial is published in my Github Gist.
+My Regex Tutorial is published in my [Github Gist](https://gist.github.com/). Link [here!](https://gist.github.com/Yukitoshi12345/27923d704247fd749572fec721b433ed/)
 
 ## Table of Contents
 
