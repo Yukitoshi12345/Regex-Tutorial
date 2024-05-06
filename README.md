@@ -15,6 +15,7 @@ My Regex Tutorial is published in my [Github Gist](https://gist.github.com/). Li
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
 - [Installation](#installation)
+- [Central Grader Comments](#central-grader-comments)
 - [License](#license)
 
 ## User Story
@@ -43,6 +44,16 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 
 The project was uploaded to [GitHub Gist](https://gist.github.com/) at the following repository:
 [https://gist.github.com/Yukitoshi12345/27923d704247fd749572fec721b433ed/](https://gist.github.com/Yukitoshi12345/27923d704247fd749572fec721b433ed/)
+
+## Central Grader Comments
+
+Grade: 100/100
+
+Hello Yukitoshi,
+
+Great job at this challenge attempt! You were tasked with building a Gist on a regular expression. For your topic, you selected an email matching regex and wrote up a tutorial utilizing markdown to break up the expression into its components. Most of the time, we do not see people utilize tables but it really adds a level of polish that shows you took the time to make something you should be proud of! The tutorial features a functioning table of contents, breaks down your specific expression into its individual components with the code snippets that relate to the section, and finally, includes examples of passing test code for the expression. Overall, the tutorial has a great level of detail and polish that would help anyone understand an email regex expression in a beneficial way. This challenge introduces a non-conventional networking tool and with the quality of this tutorial I would highly recommend sharing this through channels available to you and consider writing more topics! These guides can be very handy for other developers starting out but you can choose any topic that you think may be worthy of a write up. Great job!
+
+- QP, Centralized Grading.
 
 ## License
 
